@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="billAmount" />
+    <string-array name="numberOfPeople">
+        <item>None</item>
+        <item>2 people</item>
+        <item>3 people</item>
+        <item>4 people</item>
+    </string-array>
+</resources>
